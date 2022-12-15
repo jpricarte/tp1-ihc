@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalcPro</string>
+    <string name="number_help">Insert a number here</string>
+</resources>
