@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sensor Plus</string>
+    <string name="light_hello">Light Info</string>
+</resources>
